@@ -48,6 +48,5 @@ License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 Acknowledgements
-OpenAPI for providing a standard specification for API documentation.
 Font Awesome for the icons used in the UI.
 Feel free to customize the README further based on the specific details and requirements of your project.
